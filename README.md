@@ -1,3 +1,4 @@
+
 Features - General
 You have been supplied with two demos, each presenting a key new feature.
 blogapi-permissions demonstrates how to restrict access to portions of your APIs data.
@@ -17,3 +18,4 @@ enter docker-compose up --build to start your site.
 add postgres 11 as a service
 Note: It is not required to include a volume so that data can persist when container is shut down.
 Go to browsable api and confirm site properly restricts users based on their permissions.
+
